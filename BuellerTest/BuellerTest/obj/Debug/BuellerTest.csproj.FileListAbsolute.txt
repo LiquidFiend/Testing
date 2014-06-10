@@ -1,0 +1,6 @@
+D:\Development\GitHub\Testing\BuellerTest\BuellerTest\bin\Debug\BuellerTest.exe.config
+D:\Development\GitHub\Testing\BuellerTest\BuellerTest\bin\Debug\BuellerTest.exe
+D:\Development\GitHub\Testing\BuellerTest\BuellerTest\bin\Debug\BuellerTest.pdb
+D:\Development\GitHub\Testing\BuellerTest\BuellerTest\obj\Debug\BuellerTest.csprojResolveAssemblyReference.cache
+D:\Development\GitHub\Testing\BuellerTest\BuellerTest\obj\Debug\BuellerTest.exe
+D:\Development\GitHub\Testing\BuellerTest\BuellerTest\obj\Debug\BuellerTest.pdb
